@@ -55,5 +55,24 @@
 //     echo '<br>' .$names[$i]. '<br>';
 // }
 
+
+// implode and explode:-
+
+// implode function are used to convert array into string
+
+// $arr  = array("red","green","yellow");
+// $res = implode(" ",$arr);
+// $res1 =  'my favourite colors are ' .$res. ".";
+
+// $fres =  explode(" ",$res1);
+
+// foreach($fres as $val){
+//     echo $val;
+// }
+
+
+
+
+
 ?>
 
